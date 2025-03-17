@@ -14,6 +14,7 @@ google-api-core
 google-auth
 google-cloud-core
 google-cloud-vision
+google.generativeai
 googleapis-common-protos
 idna
 protobuf
@@ -28,3 +29,8 @@ sqlparse
 typing_extensions
 uritemplate
 urllib3
+gunicorn
+django-jazzmin
+matplotlib
+seaborn
+
