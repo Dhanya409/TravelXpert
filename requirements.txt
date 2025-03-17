@@ -32,4 +32,4 @@ urllib3
 gunicorn
 django-jazzmin
 matplotlib
-pyplot
+
