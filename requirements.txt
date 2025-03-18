@@ -33,4 +33,4 @@ gunicorn
 django-jazzmin
 matplotlib
 seaborn
-
+whitenoise
